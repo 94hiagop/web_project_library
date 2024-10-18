@@ -351,15 +351,17 @@
   justify-content: flex-end;
 }
 
-.footer__column_content_hours {
+.footer__column {
   display: flex;
+}
+
+.footer__column_content_hours {
   flex-direction: column;
   gap: 16px;
   margin-left: auto;
 }
 
 .footer__column_content_social {
-  display: flex;
   flex-direction: column;
   gap: 16px;
 }

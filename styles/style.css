@@ -395,7 +395,8 @@
 .footer__column-link {
   color: #ffffff;
   text-decoration: none;
-  align-items: flex-end;
+  align-items: center;
+  column-gap: 10px;
 }
 
 .footer__social-icon {
